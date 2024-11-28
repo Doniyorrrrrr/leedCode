@@ -36,7 +36,5 @@
     
     // console.log(ism.charAt(0).toUpperCase() + ism2);
     
-    console.log();
-    console.log();
     
     
